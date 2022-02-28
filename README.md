@@ -16,6 +16,10 @@ https://www.kaggle.com/fedesoriano/gender-pay-gap-dataset
 
 2017-2019 The Panel Study of Income Dynamics (PSID) Family-level
 https://simba.isr.umich.edu/data/data.aspx
+# Technology
+- Google Big Query
+- Google Studio
+- R, Python
 # Works
 - EDA
 - Mediation Regression: the indirect effect of education on women wages
