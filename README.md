@@ -1,4 +1,5 @@
 # MSBA-hackthon
+Ranked 2nd in Google & UCD MSBA Hackthon, 2022
 # Topic
 Gender discrimination in U.S. tech industry
 # Data Source
